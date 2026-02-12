@@ -24,17 +24,19 @@
 
 ---
 
-## 📂 Featured Project
-### Engineering Learning Tracker
-A structured space to track my learning, notes, and practice throughout my engineering journey.
+## 🚀 Featured Projects
 
----
+### 📊 Student Stress Prediction
+Machine Learning project to predict student stress levels using Python & Scikit-Learn.
 
-## 🎯 Goals
-- Build strong problem-solving skills
-- Work on real-world projects
-- Secure good internships & placements
+### 🎓 College Attendance Prediction
+ML-based attendance prediction system.
 
----
+### 👁️ OpenCV Learning Journey
+Daily practice and notes for Computer Vision using OpenCV.
+
+### 📘 Engineering Learning Tracker
+Structured tracking of DSA, CV, and core CS concepts.
+
 
 ⭐ *Consistency over intensity.*
