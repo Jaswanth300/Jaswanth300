@@ -25,6 +25,28 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ---
+---
+
+## 🚀 Featured Projects
+
+### 📘 Engineering Learning Tracker
+A structured repository to track my daily engineering learning journey including DSA, DBMS, Computer Vision and more.
+
+🔗 https://github.com/Jaswanth300/Engineering-Learning-Tracker
+
+---
+
+### 🧠 Student Stress Prediction
+Machine Learning project that predicts student stress levels using Decision Tree algorithm.
+
+🔗 https://github.com/Jaswanth300/Student-Stress-Prediction
+
+---
+
+### 👁 OpenCV Computer Vision
+Hands-on OpenCV practice repository including image processing and vision fundamentals.
+
+🔗 https://github.com/Jaswanth300/OpenCV
 
 ## 📌 Current Focus
 - Strengthening DSA foundations
