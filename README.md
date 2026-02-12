@@ -56,25 +56,6 @@ Hands-on OpenCV practice repository including image processing and vision fundam
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Student Stress Prediction
-Machine Learning project to predict student stress levels using Python & Scikit-Learn.
-
-### 🎓 College Attendance Prediction
-ML-based attendance prediction system.
-
-### 👁️ OpenCV Learning Journey
-Daily practice and notes for Computer Vision using OpenCV.
-
-### 📘 Engineering Learning Tracker
-Structured tracking of DSA, CV, and core CS concepts.
-
-
----
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswanth300&show_icons=true&theme=tokyonight&cache_seconds=1800)
