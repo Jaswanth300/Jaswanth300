@@ -62,4 +62,13 @@ Hands-on OpenCV practice repository including image processing and vision fundam
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth300&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jaswanth300&theme=tokyonight&hide_border=true)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaswanth300&theme=tokyo-night&hide_border=true)
+
+
 ⭐ *Consistency over intensity.*
