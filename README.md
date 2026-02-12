@@ -41,10 +41,13 @@ Structured tracking of DSA, CV, and core CS concepts.
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
-![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth300&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswanth300&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth300&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth300&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ⭐ *Consistency over intensity.*
