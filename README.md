@@ -128,11 +128,18 @@ A dedicated space for my projects, technical experiments, and the work I’m bui
 
 ---
 
-## 🤝 Find me
+## 🤝 Contact me directly
 
 <p align="center">
+  <a href="mailto:n.jaswanthbala@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20me%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jaswanth"/></a>
+  <a href="https://wa.me/918125643574"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message Jaswanth on WhatsApp"/></a>
   <a href="https://github.com/Jaswanth300"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/></a>
   <a href="https://github.com/Jaswanth300?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-0D9488?style=for-the-badge&logo=github" alt="Explore projects"/></a>
+</p>
+
+<p align="center">
+  <a href="mailto:n.jaswanthbala@gmail.com">n.jaswanthbala@gmail.com</a> ·
+  <a href="https://wa.me/918125643574">WhatsApp: +91 81256 43574</a>
 </p>
 
 <p align="center"><i>Curious by default. Practical by design. Always building.</i></p>
