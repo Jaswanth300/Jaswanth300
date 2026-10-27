@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Naga Jaswanth — AI, Data Science and Cybersecurity</title>
+<desc id="desc">A dark futuristic banner with a glowing neural network, data grid, and security-themed interface.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B17"/><stop offset=".55" stop-color="#10152B"/><stop offset="1" stop-color="#071B2A"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#53F4E8"/><stop offset="1" stop-color="#7C5CFF"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56F3E5"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#12D6C5" stop-opacity=".24"/><stop offset="1" stop-color="#12D6C5" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9FB5FF" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="910" cy="180" r="220" fill="url(#glow)"/>
+<circle cx="1040" cy="60" r="105" fill="#7C5CFF" opacity=".11" filter="url(#blur)"/>
+<path d="M0 294 C210 260 360 350 570 292 S930 250 1200 300" fill="none" stroke="#56F3E5" stroke-opacity=".12" stroke-width="1.5"/>
+<g stroke="url(#line)" stroke-width="1.4" stroke-opacity=".7" fill="none">
+ <path d="M790 92L875 132L964 82L1054 130L1122 88"/><path d="M790 92L818 190L900 225L964 82"/><path d="M875 132L900 225L1005 270L1054 130L1122 206"/><path d="M818 190L775 264L900 225"/><path d="M1054 130L1122 206L1084 282L1005 270"/>
+ <path d="M900 225L948 174L1054 130"/><path d="M964 82L948 174L1122 206"/>
+</g>
+<g fill="#071521" stroke="#56F3E5" stroke-width="2">
+ <circle cx="790" cy="92" r="5"/><circle cx="875" cy="132" r="6"/><circle cx="964" cy="82" r="7"/><circle cx="1054" cy="130" r="6"/><circle cx="1122" cy="88" r="4"/>
+ <circle cx="818" cy="190" r="5"/><circle cx="900" cy="225" r="7"/><circle cx="1005" cy="270" r="5"/><circle cx="1122" cy="206" r="6"/><circle cx="1084" cy="282" r="4"/><circle cx="775" cy="264" r="4"/><circle cx="948" cy="174" r="4"/>
+</g>
+<g transform="translate(940 168)">
+ <path d="M0 -35L31 -22V4C31 27 14 42 0 49C-14 42 -31 27 -31 4V-22Z" fill="#0B1727" stroke="url(#accent)" stroke-width="2.5"/>
+ <path d="M-13 2L-3 12L16 -10" fill="none" stroke="#56F3E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+ <text x="64" y="73" fill="#56F3E5" font-size="13" letter-spacing="3">AI / DATA / SECURITY</text>
+ <text x="60" y="143" fill="#F4F7FF" font-size="49" font-weight="700" letter-spacing="-1.4">NAGA JASWANTH</text>
+ <rect x="64" y="166" width="46" height="3" rx="1.5" fill="url(#accent)"/>
+ <text x="64" y="204" fill="#B9C5E8" font-size="20">Building intelligent systems.</text>
+ <text x="64" y="232" fill="#B9C5E8" font-size="20">Learning to make them secure.</text>
+ <g transform="translate(64 270)">
+  <rect width="148" height="34" rx="17" fill="#102A35" stroke="#2BCFC5" stroke-opacity=".7"/>
+  <circle cx="17" cy="17" r="4" fill="#56F3E5"/><text x="30" y="22" fill="#D8FFFC" font-size="12">MACHINE LEARNING</text>
+  <rect x="160" width="128" height="34" rx="17" fill="#1C1938" stroke="#8B76FF" stroke-opacity=".7"/>
+  <circle cx="177" cy="17" r="4" fill="#A78BFA"/><text x="190" y="22" fill="#E8E2FF" font-size="12">CYBERSECURITY</text>
+  <rect x="300" width="118" height="34" rx="17" fill="#111F36" stroke="#638EFF" stroke-opacity=".7"/>
+  <circle cx="317" cy="17" r="4" fill="#7EA5FF"/><text x="330" y="22" fill="#E1EAFF" font-size="12">ENGINEERING</text>
+ </g>
+ <text x="1136" y="328" fill="#8EA1C7" font-size="10" text-anchor="end" letter-spacing="2">LEARN · BUILD · ITERATE</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.25" fill="none" stroke="#9FB5FF" stroke-opacity=".18" stroke-width="1.5"/>
+</svg>
