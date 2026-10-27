@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jaswanth300.github.io/jaswanth-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-B7F34A?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Visit my live portfolio"/></a>
   <a href="https://github.com/Jaswanth300"><img src="https://img.shields.io/badge/GitHub-Jaswanth300-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-0D9488?style=for-the-badge" alt="AI and cybersecurity focus"/>
   <img src="https://img.shields.io/badge/Status-Building%20in%20Public-7C3AED?style=for-the-badge" alt="Building in public"/>
@@ -16,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jaswanth300.github.io/jaswanth-portfolio/">Live portfolio ↗</a> ·
   <a href="#-selected-work">Explore my work</a> ·
   <a href="#-toolkit">Toolkit</a> ·
   <a href="#-activity">Activity</a> ·
@@ -32,6 +34,21 @@ I'm an AI & Data Science student who learns by turning concepts into working pro
 - 🛡️ **Building toward:** cybersecurity, phishing detection, and secure software
 - 🧰 **Practising:** Python, APIs, computer vision, Git, and core CS
 - 🏆 **Milestone:** 3rd Place — Cyber Catalyst 2026 (Vibeathon)
+
+---
+
+## 🌐 My portfolio
+
+<p align="center">
+  <a href="https://jaswanth300.github.io/jaswanth-portfolio/"><strong>Explore the live portfolio →</strong></a>
+</p>
+
+A dedicated space for my projects, technical experiments, and the work I’m building across AI, data science, and cybersecurity. The site is hosted on **GitHub Pages** and is available publicly over HTTPS.
+
+<p align="center">
+  <a href="https://jaswanth300.github.io/jaswanth-portfolio/"><img src="https://img.shields.io/badge/OPEN-LIVE%20PORTFOLIO-B7F34A?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Open live portfolio website"/></a>
+  <a href="https://github.com/Jaswanth300/jaswanth-portfolio"><img src="https://img.shields.io/badge/Source-GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="Portfolio source repository"/></a>
+</p>
 
 ---
 
