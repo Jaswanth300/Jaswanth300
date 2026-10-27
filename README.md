@@ -1,112 +1,121 @@
-# Hi, I'm Naga Jaswanth 👋
+<!-- PROFILE HERO -->
+<p align="center">
+  <img src="assets/profile-hero.svg" alt="Naga Jaswanth — AI, Data Science and Cybersecurity" width="100%" />
+</p>
 
-### AI & Data Science Student | Exploring Cybersecurity & Secure Systems
+<p align="center">
+  <a href="https://github.com/Jaswanth300"><img src="https://img.shields.io/badge/GitHub-Jaswanth300-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Cybersecurity-0D9488?style=for-the-badge" alt="AI and cybersecurity focus"/>
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-7C3AED?style=for-the-badge" alt="Building in public"/>
+</p>
 
-🎓 B.Tech in Artificial Intelligence & Data Science (2024–2028)  
-🏫 Saveetha School of Engineering, SIMATS, Chennai, India  
-🔐 Interested in Machine Learning, Cybersecurity, and Secure Systems  
-🚀 Building practical projects while strengthening my engineering fundamentals.
+<h3 align="center">Building intelligent systems. Learning to make them secure.</h3>
 
----
+<p align="center">
+  B.Tech AI & Data Science · Saveetha School of Engineering, SIMATS · 2024–2028
+</p>
 
-## 🏆 Achievement
-
-**🥉 3rd Place — Cyber Catalyst 2026 (Vibeathon)**
-
----
-
-## 👨‍💻 About Me
-
-I'm an AI & Data Science student who enjoys learning by building projects and exploring how intelligent systems can solve practical problems.
-
-My current interests include:
-
-- Machine Learning and model evaluation
-- Cybersecurity and phishing detection
-- Data analysis and feature engineering
-- Computer Vision with OpenCV
-- API development and secure system design
-- Data Structures, algorithms, and core computer science
-
-My goal is to develop strong technical fundamentals, build reliable software, and prepare for meaningful internship opportunities.
+<p align="center">
+  <a href="#-selected-work">Explore my work</a> ·
+  <a href="#-toolkit">Toolkit</a> ·
+  <a href="#-activity">Activity</a> ·
+  <a href="https://github.com/Jaswanth300">GitHub profile ↗</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ◈ A little about me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I'm an AI & Data Science student who learns by turning concepts into working projects. I'm especially interested in the space where **machine learning meets cybersecurity** — from detecting suspicious URLs to building systems that are useful, measurable, and reliable.
+
+- 🧠 **Exploring:** machine learning, model evaluation, and data-driven systems
+- 🛡️ **Building toward:** cybersecurity, phishing detection, and secure software
+- 🧰 **Practising:** Python, APIs, computer vision, Git, and core CS
+- 🏆 **Milestone:** 3rd Place — Cyber Catalyst 2026 (Vibeathon)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected work
 
-### 🔐 [Phishing URL Detection](https://github.com/Jaswanth300/Phishing-URL-Detection)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaswanth300/Phishing-URL-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaswanth300&repo=Phishing-URL-Detection&theme=transparent&hide_border=true" alt="Phishing URL Detection repository card"/></a>
+      <strong>🛡️ Phishing URL Detection</strong>
+      <p>Machine learning pipeline for classifying legitimate and phishing URLs, comparing Logistic Regression, SVM, and tuned Random Forest.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>Flask API</code></p>
+      <p><strong>Best reported test accuracy: 90.6% (SVM)</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaswanth300/Student-Stress-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaswanth300&repo=Student-Stress-Prediction&theme=transparent&hide_border=true" alt="Student Stress Prediction repository card"/></a>
+      <strong>🧠 Student Stress Prediction</strong>
+      <p>A classification project using a Decision Tree, model evaluation, confusion matrix, and feature-importance visualisation.</p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>Evaluation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaswanth300/Student-Result-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaswanth300&repo=Student-Result-Prediction&theme=transparent&hide_border=true" alt="Student Result Prediction repository card"/></a>
+      <strong>📈 Student Result Prediction</strong>
+      <p>A regression project exploring score prediction and error analysis through MAE, R², and actual-versus-predicted visualisation.</p>
+      <p><code>Python</code> <code>Linear Regression</code> <code>Data Visualisation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jaswanth300/OpenCV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaswanth300&repo=OpenCV&theme=transparent&hide_border=true" alt="OpenCV repository card"/></a>
+      <strong>👁️ Computer Vision Lab</strong>
+      <p>Hands-on practice with image processing and computer-vision fundamentals using OpenCV.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>Image Processing</code></p>
+    </td>
+  </tr>
+</table>
 
-An end-to-end machine learning project for classifying legitimate and phishing websites using structured security features.
-
-- Benchmarks Logistic Regression, Support Vector Machine (SVM), and tuned Random Forest models.
-- Uses GridSearchCV for Random Forest hyperparameter tuning.
-- Evaluates models using accuracy, precision, recall, F1-score, and confusion matrices.
-- Serializes the selected model and provides a Flask REST API for predictions.
-
-**Reported best test accuracy:** 90.6% with SVM.
-
-### 🧠 [Student Stress Prediction](https://github.com/Jaswanth300/Student-Stress-Prediction)
-
-A machine learning project exploring student stress classification using a Decision Tree model.
-
-- Model evaluation with accuracy and a confusion matrix.
-- Feature importance visualization for model interpretability.
-- Structured dataset and dependency management.
-
-### 📊 [Student Result Prediction](https://github.com/Jaswanth300/Student-Result-Prediction)
-
-A regression-based machine learning project that predicts student scores and explores prediction error and model evaluation.
-
-- Linear Regression
-- Mean Absolute Error and R² score
-- Actual-versus-predicted visualization
-
-### 👁️ [OpenCV — Computer Vision](https://github.com/Jaswanth300/OpenCV)
-
-Hands-on practice with image processing and computer vision fundamentals using OpenCV.
-
-### 📚 [Engineering Learning Tracker](https://github.com/Jaswanth300/Engineering-Learning-Tracker)
-
-A structured repository documenting my learning journey across Data Structures and Algorithms, DBMS, Computer Vision, and core computer science subjects.
-
----
-
-## 🎯 Current Focus
-
-- Strengthening Python, DSA, and core CS fundamentals
-- Improving machine learning workflows and evaluation
-- Exploring cybersecurity and secure system development
-- Practising Git, GitHub, and clean development workflows
-- Using the GitHub Student Developer Pack to support learning and project development
+<p align="center">
+  <a href="https://github.com/Jaswanth300?tab=repositories"><strong>Browse all repositories →</strong></a>
+</p>
 
 ---
 
-## 📈 GitHub Overview
+## 🧩 Toolkit
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaswanth300&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,flask,opencv,sklearn,numpy,pandas,git,github,vscode&theme=dark" alt="Python, C, Flask, OpenCV, scikit-learn, NumPy, Pandas, Git, GitHub and VS Code" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth300&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Connect
-
-- **GitHub:** [Jaswanth300](https://github.com/Jaswanth300)
+<p align="center">
+  <sub>Currently sharpening fundamentals while building projects that connect AI, data, and security.</sub>
+</p>
 
 ---
 
-*Learning continuously. Building practically. Growing with purpose.*
+## 📊 Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaswanth300&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth300&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaswanth300&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🧭 What I'm working toward
+
+```text
+01  Stronger Python + data structures and algorithms
+02  Better ML experimentation, validation, and explainability
+03  Practical cybersecurity and secure-system engineering
+04  Clear documentation, reliable APIs, and deployable projects
+```
+
+---
+
+## 🤝 Find me
+
+<p align="center">
+  <a href="https://github.com/Jaswanth300"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/></a>
+  <a href="https://github.com/Jaswanth300?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-0D9488?style=for-the-badge&logo=github" alt="Explore projects"/></a>
+</p>
+
+<p align="center"><i>Curious by default. Practical by design. Always building.</i></p>
